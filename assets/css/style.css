@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+font-family: 'Roboto', sans-serif;
+
+.zero
+{   
+    display: flex;
+
+}
+
+.iki{
+
+}
+.bir
+{display: flex;
+    
+    width: 662px;
+    height: 374px;
+    left: 141px;
+    top: 210px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    color: black;
+    display: flex;
+    background-color: white;
+
+}
